@@ -1,10 +1,10 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "ownerNum": "6285921165857",
-  "botName": "Hitomi MD",
+  "ownerNumber": ["6288271109247@s.whatsapp.net"],
+  "ownerName": ["Faa-Real"],
+  "ownerNum": "6288271109247",
+  "botName": "Faa-Botz",
   "footer": "© Hitomi MD 2022",
-  "fake": "Bot By Christian ID",
+  "fake": "Bot Run BY Mr DarkRSC",
   "sessionName": "hitomi",
   "pathimg": "./media/hitomi.jpg",
   
@@ -21,13 +21,13 @@
   "quickReplyButton4": "Donasi 💰",
   "quickReplyButton5": "Rate Bot ⭐",
    
-  "ButtonMenuLink1": "https://youtube.com/c/ChristianID99",
-  "ButtonMenuLink2": "https://rest-api-hitomi.herokuapp.com/docs",
+  "ButtonMenuLink1": "-",
+  "ButtonMenuLink2": "-",
   "displayTextMenu3": "command",
   "displayTextMenu4": "donasi",
   "displayTextMenu5": "rating",
   
-  "QrisAllPay": "https://i.ibb.co/f2h3MDQ/Qris.jpg",
+  "QrisAllPay": "-",
   "textBarisDonate1": "DANA : SCAN QRIS DIATAS",
   "textBarisDonate2": "OVO : SCAN QRIS DIATAS",
   "textBarisDonate3": "GOPAY : SCAN QRIS DIATAS",
